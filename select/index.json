@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星めぐる詩",
+  "base_artist": "suis from Yorushika",
+  "createdAt": "2025-12-01T12:40:41.969579Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星めぐる詩",
+      "artist": "suis from ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_星めぐる詩_suis_from_ヨルシカ.txt"
+    }
+  ]
+}
