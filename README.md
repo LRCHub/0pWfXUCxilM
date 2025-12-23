@@ -1,4 +1,4 @@
-# suis from Yorushika – 星めぐる詩
+# suis from ヨルシカ – 星めぐる詩
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
